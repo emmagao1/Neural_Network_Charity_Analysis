@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview of the analysis: Explain the purpose of this analysis.
-Use machine learning and neural networks to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. We analyzed dataset of more than $34,000 organizations that have received funding from Alphabet Soup over the years. We processed data for Neural Network Model, we complied, trained, and evaluated the model and then we optimized the model for improving accuracy.
+Use machine learning and neural networks to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. We analyzed dataset of more than 34,000 organizations that have received funding from Alphabet Soup over the years. We processed data for Neural Network Model, we complied, trained, and evaluated the model and then we optimized the model for improving accuracy.
 
 
 ## Results: Using bulleted lists and images to support your answers, address the following questions.
